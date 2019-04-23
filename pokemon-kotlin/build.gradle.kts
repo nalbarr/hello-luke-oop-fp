@@ -31,5 +31,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = "pokemon.Main"
+    mainClassName = "pokemon.MainKt"
 }
